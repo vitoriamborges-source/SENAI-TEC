@@ -59,4 +59,4 @@ print("Tentando alterar meu_cofre.__senha para '0000'...")
 
 print("\n--- 3. Verificando se os atributos privados realmente mudaram ---")
 # O saldo continuará sendo R$ 350.00 (500 - 150) e a senha continuará sendo "1234"
-meu_cofre.consultar_saldo("1234")                         
+meu_cofre.consultar_saldo("1234")
